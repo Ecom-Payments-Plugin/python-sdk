@@ -34,3 +34,6 @@ where = ["src"]
 
 [tool.setuptools.package-data]
 ecom_payments = ["py.typed"]
+[tool.semantic_release]
+version_toml = ["pyproject.toml:project.version"]
+branch = "main"
