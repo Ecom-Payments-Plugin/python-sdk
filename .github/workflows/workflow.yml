@@ -1,4 +1,4 @@
-name: Publish Python SDK to PyPI
+name: Publish/Release Python SDK to PyPI
 
 on:
   push:
