@@ -3,7 +3,7 @@ requires = ["setuptools>=77.0.3"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ecom-payments-sdk"
+name = "ecompayments-python-sdk"
 version = "0.1.0"
 description = "Python SDK for Ecom Payments"
 readme = "README.md"
